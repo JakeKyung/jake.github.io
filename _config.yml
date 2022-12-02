@@ -11,7 +11,7 @@ gitbook_version:  3.2.3
 
 url:              'https://jakekyung.github.io/jake.github.io/'
 #baseurl:          '/jekyll-gitbook'
-baseurl:          "/jake.github.io"
+baseurl:          "/jake"
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
